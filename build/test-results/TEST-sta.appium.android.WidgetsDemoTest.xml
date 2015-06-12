@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sta.appium.android.WidgetsDemoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-03-31T19:54:06" hostname="SLAVBL01" time="62.873">
+  <properties/>
+  <testcase name="testTaskList" classname="sta.appium.android.WidgetsDemoTest" time="42.171"/>
+  <testcase name="testVolSlider" classname="sta.appium.android.WidgetsDemoTest" time="20.701"/>
+  <system-out><![CDATA[  test: testTaskListfb95ed45-bce7-4eaa-b426-efee1eb583f7
+  test: testVolSlider94336339-5011-436c-ba28-c00ad183e6c2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
